@@ -1,0 +1,6 @@
+
+out*/
+*.bin
+__pycache__/*
+data/shakespeare_char/*.txt
+data/shakespeare_char/*.pkl
